@@ -1,5 +1,13 @@
 # etc
 config.py
+.DS_Store
+.devcontainer/
+.dockerignore
+.flake8
+.github/
+.gitignore.swp
+.idea/
+.readthedocs.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
